@@ -1,0 +1,12 @@
+rubi_env/**
+.weth_usdc_env
+.weth_usdt_env
+.weth_dai_env
+.usdc_dai_env
+.op_usdc_env
+.email_env
+.weth_usdc_arb_env
+.weth_usdc_arb_env2
+rubi_key.pem
+__pycache__/**
+.DS_Store
