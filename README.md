@@ -1,2 +1,2 @@
 # rubicon-volume-bot
-Bot which competed in Rubicon Maker Rewards Program generating over +$10k in rewards.
+Bot which competed in [Rubicon Maker Rewards Program](https://mirror.xyz/rubicon.eth/HqGA4yKqZsrDMhaG3BSFuIwIOKBSmCRimfaxC4nkUZU). The competition rewarded a sum of OP tokens to liquidity providers on the exchange proportional to the maker volume generated each month. The strategy was relatively simple, place bids and asks that were very close in value to the going price of several token pairs (making the spread tiny). This would lead to losses from gas and from placing bids below market value, but the program's rewards more than compensated for this. The bot ran for a total of 4 months and generated a little over $10k USD in profit from rewards over this period.
